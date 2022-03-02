@@ -1,0 +1,46 @@
+section {
+  padding-top: 5rem;
+}
+.container a {
+  color: black;
+}
+
+.kolom {
+  margin-top: 200px;
+  margin-bottom: 50px;
+}
+h1 {
+  font-size: 50px;
+  font-weight: 800px;
+  color: cadetblue;
+  margin-bottom: 50px;
+}
+h2 {
+  color: black;
+}
+#home {
+  background-color: lightgray;
+  margin: auto;
+  display: flex;
+  width: 100%;
+}
+#pendidikan {
+  background-color: cadetblue;
+}
+#classschedule {
+  background-color: #4b6a82;
+}
+thead {
+  background-color: #b8b7ed;
+}
+#activities {
+  background-color: #b8b7ed;
+}
+.gambar .feed1 {
+  width: 600px;
+  padding-right: 5cm;
+  padding-left: 3cm;
+}
+.gambar .kegiatan {
+  width: 500px;
+}
